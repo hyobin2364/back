@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\hyobi\OneDrive\바탕 화면\BACK\venv"
+VIRTUAL_ENV="C:\Users\hyobi\Documents\fastapi_back\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
