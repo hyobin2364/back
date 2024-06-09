@@ -2,4 +2,4 @@
 .gitignore
 .dockerignore
 Dockerfile
-venv
+git add venv/
